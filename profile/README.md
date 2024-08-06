@@ -1,4 +1,4 @@
-# :lock: P&G Restriced Organization
+# :lock: P&G Restricted Organization
 
 This is P&G's organization for HiR code and related initiatives only.
 
