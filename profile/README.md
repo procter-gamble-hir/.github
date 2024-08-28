@@ -1,6 +1,8 @@
-# :lock: P&G Restricted Organization
+# :lock: P&G HiR Organization
 
 This is P&G's organization for HiR code and related initiatives only.
+
+HiR Code = Code itself that is considered HiR.
 
 Everything else, code should be in: [Main P&G GitHub Organization](github.com/procter-gamble)
 
